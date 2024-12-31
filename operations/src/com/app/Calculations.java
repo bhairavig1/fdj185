@@ -16,4 +16,10 @@ public class Calculations {
 		
 	}
 	
+	public void multiplication()
+	{
+		
+		
+		
+	}
 }

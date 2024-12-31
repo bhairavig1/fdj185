@@ -10,4 +10,10 @@ public class Calculations {
 		
 	}
 
+	public void subtraction()
+	{
+
+		
+	}
+	
 }

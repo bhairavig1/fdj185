@@ -20,6 +20,11 @@ public class Calculations {
 	{
 		
 		
+	}
+
+	public void division ()
+	{
+
 		
 	}
 }
